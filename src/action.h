@@ -1,7 +1,12 @@
+#include <cstdint>
 #include <iostream>
 
 
 namespace action
 {
+	// Used for displaying name of project and version number
 	int DisplaySynopsis ();
+
+	// Used for getting security data from user
+	uint64_t GetNumberStdin (std::string);
 }
