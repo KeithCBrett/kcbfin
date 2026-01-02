@@ -3,6 +3,7 @@
 
 #include <cstdio>
 
+using namespace action;
 
 int
 main ()
