@@ -2,3 +2,10 @@ build/CMakeCache.txt
 build/CMakeFiles/
 build/cmake_install.cmake
 build/libaction.a
+build/_deps/
+build/lib/
+build/bin/
+build/CTestTestfile.cmake
+build/Testing/
+build/unit_tests\[1\]_include.cmake
+build/unit_tests\[1\]_tests.cmake

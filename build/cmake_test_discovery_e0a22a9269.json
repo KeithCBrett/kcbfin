@@ -1,0 +1,17 @@
+{
+  "tests": 1,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "DisplaySynopsisTest",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "ActionTests",
+          "file": "\/home\/Connor\/Programming\/C++\/kcbfin\/src\/unit_tests.cpp",
+          "line": 7
+        }
+      ]
+    }
+  ]
+}
